@@ -6,6 +6,8 @@
 //  Copyright © 2017 5calls. All rights reserved.
 //
 
+// test
+
 import Foundation
 
 func isUITesting() -> Bool {
